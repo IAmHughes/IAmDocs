@@ -64,7 +64,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/IAmHughes/IAmDocs/blob/master/Docs/Templates/CONTRIBUTING.md-Template.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/IAmHughes/IAmDocs/blob/master/Templates/CONTRIBUTING.md-Template.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 
