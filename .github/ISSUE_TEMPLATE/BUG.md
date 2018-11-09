@@ -3,6 +3,7 @@ Thank you for taking the time to file an issue. Please make sure you have comple
 - [ ] Briefly describe the bug's *user-visible* impact in the title
 - [ ] Describe the bug and the situations in which it occurs in the main issue body.
 - [ ] If possible, include reproduction steps using the following template:
+
     ```
     **Steps to reproduce:**
 
